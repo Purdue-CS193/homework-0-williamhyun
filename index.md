@@ -1,3 +1,8 @@
+# William's First CS193 Homework
+- Meeting other freshmen CS majors is fun!
+- Learning practical stuff like how to make your own website using GitHub's free tools is useful.
+- And the TA's are cool!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
